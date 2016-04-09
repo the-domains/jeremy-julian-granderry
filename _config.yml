@@ -1,0 +1,28 @@
+name: Jeremy Julian Granderry
+favicon: null
+layout_spectrum: 0.6989425146020949
+typography_spectrum: 0.7594029540196061
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.16371330618858337
+  lightness: 0.9281346204224974
+  saturation: 0.24883771245367825
+  rhythmicContrast: 0.5714174874592572
+purpose: []
